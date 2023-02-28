@@ -1,12 +1,18 @@
 
-import guessing, hangman, rock_paper_scissors, treasure_island
+import guessing, hangman, rock_paper_scissors, treasure_island, blackjack
 
 print("*********************************")
 print("Welcome Simon's games!")
 print("*********************************")
 
 # Game options
-games_list = ["Guessing", "HangMan", "Rock_Paper_Scissors", "Treasure_Island"]
+games_list = [
+    "Guessing", 
+    "HangMan", 
+    "Rock_Paper_Scissors", 
+    "Treasure_Island", 
+    "BlackJack"
+    ]
 
 print("Choose your game!")
 for count, game in enumerate(games_list, start=1):
