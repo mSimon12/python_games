@@ -1,5 +1,6 @@
 
 import guessing, hangman, rock_paper_scissors, treasure_island, blackjack
+import higher_lower
 
 print("*********************************")
 print("Welcome Simon's games!")
@@ -11,7 +12,8 @@ games_list = [
     "HangMan", 
     "Rock_Paper_Scissors", 
     "Treasure_Island", 
-    "BlackJack"
+    "BlackJack",
+    "Higher_Lower"
     ]
 
 print("Choose your game!")
