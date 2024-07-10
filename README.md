@@ -1,2 +1,2 @@
-# python_learning
-Repository for codes implemented while learning and testing python functionalities
+# python_games
+Repository for games implemented in python
