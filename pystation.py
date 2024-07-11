@@ -1,6 +1,5 @@
 
-import guessing, hangman, rock_paper_scissors, treasure_island, blackjack
-import higher_lower
+from games import guessing, hangman, rock_paper_scissors, treasure_island, blackjack, higher_lower
 
 print("*********************************")
 print("Welcome Simon's games!")

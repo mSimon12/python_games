@@ -1,6 +1,6 @@
 
 import random as rd
-from higher_lower_data import data, logo, vs
+from .higher_lower_data import data, logo, vs
 import os
 
 def get_oponent(winner = ''):
