@@ -1,24 +1,25 @@
-# python_games
-This is an implementation of .......
 
-<pre  style="font-family: monospace; background-color: black; color: white;">
-.------------------..-------------------..------------------..------------------..-------------------..-----------------..-----------------..------------------..-------------------.
-| .--------------. || .---------------. || .--------------. || .--------------. || .---------------. || .-------------. || .-------------. || .--------------. || .---------------. |
-| | <span style="color: red;">  ______    </span> | || | <span style="color: orange;"> ____  ____  </span> | || | <span style="color: yellow;">   _______   </span>| || | <span style="color: yellowgreen;"> _________   </span>| || | <span style="color: green;">     __      </span> | || | <span style="color: turquoise;"> _________ </span> | || | <span style="color: cyan;">   _____   </span> | || | <span style="color: dodgerblue;">    ___     </span> | || | <span style="color: blue;"> ____  _____ </span> | |
-| | <span style="color: red;"> |_   __ \  </span> | || | <span style="color: orange;"> |_  _||_  _| </span>| || | <span style="color: yellow;">  /  ___  |  </span>| || | <span style="color: yellowgreen;">|  _   _  |  </span>| || | <span style="color: green;">    /  \     </span> | || | <span style="color: turquoise;">|  _   _  |</span> | || | <span style="color: cyan;">  |_   _|  </span> | || | <span style="color: dodgerblue;">  .'    `.  </span> | || | <span style="color: blue;">|_   \|_   _|</span> | |
-| | <span style="color: red;">   | |__) | </span> | || | <span style="color: orange;">  \ \  / /   </span> | || | <span style="color: yellow;"> |  (__ \_|  </span>| || | <span style="color: yellowgreen;">|_/ | | \_|  </span>| || | <span style="color: green;">   / /\ \    </span> | || | <span style="color: turquoise;">|_/ | | \_|</span> | || | <span style="color: cyan;">    | |    </span> | || | <span style="color: dodgerblue;"> /  .--.  \ </span> | || | <span style="color: blue;"> |   \ | |   </span> | |
-| | <span style="color: red;">   |  ___/  </span> | || | <span style="color: orange;">   \ \/ /    </span> | || | <span style="color: yellow;">  '.___`-.   </span>| || | <span style="color: yellowgreen;">    | |      </span>| || | <span style="color: green;">  / ____ \   </span> | || | <span style="color: turquoise;">    | |    </span> | || | <span style="color: cyan;">    | |    </span> | || | <span style="color: dodgerblue;">|  |    |  |</span> | || | <span style="color: blue;"> | |\ \| |   </span> | |
-| | <span style="color: red;">  _| |_     </span> | || | <span style="color: orange;">   _|  |_    </span> | || | <span style="color: yellow;"> |`\____) |  </span>| || | <span style="color: yellowgreen;">   _| |_     </span>| || | <span style="color: green;">_/ /    \ \_ </span> | || | <span style="color: turquoise;">   _| |_   </span> | || | <span style="color: cyan;">   _| |_   </span> | || | <span style="color: dodgerblue;"> \  `--'  / </span> | || | <span style="color: blue;">_| |_\   |_  </span> | |
-| | <span style="color: red;"> |_____|    </span> | || | <span style="color: orange;">  |______|   </span> | || | <span style="color: yellow;"> |_______.'  </span>| || | <span style="color: yellowgreen;">  |_____|    </span>| || | <span style="color: green;">|____|  |____|</span>| || | <span style="color: turquoise;">  |_____|  </span> | || | <span style="color: cyan;">  |_____|  </span> | || | <span style="color: dodgerblue;">  `.____.'  </span> | || | <span style="color: blue;">|_____|\____|</span> | |
-| |              | || |               | || |              | || |              | || |               | || |             | || |             | || |              | || |               | |
-| '--------------' || '---------------' || '--------------' || '--------------' || '---------------' || '-------------' || '-------------' || '--------------' || '---------------' |
-'------------------''-------------------''------------------''------------------''-------------------''-----------------''-----------------''------------------''-------------------'
+This is .......
+
+<pre style="font-family: monospace; color: white;">
+________                                                                          
+`MMMMMMMb.                                                     68b                     
+ MM    `Mb                                                     Y89                     
+ MM     MM  ____    ___    ____     /M         ___     /M      ___    _____    ___  __   
+ MM     MM  `MM(    )M'   6MMMMb\  /MMMMM    6MMMMb   /MMMMM   `MM   6MMMMMb   `MM 6MMb  
+ MM    .M9   `Mb    d'   MM'    `   MM      8M'  `Mb   MM       MM  6M'   `Mb   MMM9 `Mb 
+ MMMMMMM9'    YM.  ,P    YM.        MM          ,oMM   MM       MM  MM     MM   MM'   MM 
+ MM            MM  M      YMMMMb    MM      ,6MM9'MM   MM       MM  MM     MM   MM    MM 
+ MM            `Mbd'          `Mb   MM      MM'   MM   MM       MM  MM     MM   MM    MM 
+ MM             YMP      L    ,MM   YM.  ,  MM.  ,MM   YM.  ,   MM  YM.   ,M9   MM    MM 
+_MM_             M       MYMMMM9     YMMM9  `YMMM9'Yb.  YMMM9  _MM_  YMMMMM9   _MM_  _MM_
+                d'                                                                 
+            (8),P                                                                  
 </pre>
-
 
 
 All you need to start this amazing video game with a lot of fun games is to run:
 
 ``
-python pystration.py
+python pystation.py
 ``
